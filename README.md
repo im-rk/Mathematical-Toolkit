@@ -1,0 +1,1 @@
+This is a Python-based MATHEMATICAL TOOLKIT developed using "Tkinter". It allows users to perform various matrix operations, such as addition, subtraction, multiplication, determinant calculation, and graph plotting
